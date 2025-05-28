@@ -1,3 +1,3 @@
 
-# react-movie
+# Movie-Catalogue-App
 
